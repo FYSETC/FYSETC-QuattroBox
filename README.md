@@ -14,4 +14,4 @@
    - Safe and reliable NEMA 17 stepper motor；
 
 3. Instructions
-   We have updated the installation guide on WIKI,； link:(https://wiki.fysetc.com/)
+   We have updated the installation guide on WIKI,； link:([https://wiki.fysetc.com/](https://wiki.fysetc.com/docs/FYSETCQuattroBox))
