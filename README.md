@@ -20,11 +20,11 @@
    Q: How to install to my 3D printer? A: You can watch  [the assembly manual](https://github.com/FYSETC/FYSETC-QuattroBox/tree/main/Documentation).
    Q：Does the installation require additional printed fixtures?  A：Not needed
 
-6. Shop
+5. Shop
    -  [Aliexpress]().
    -  [Amazon]().
 
-7. Tech Support
+6. Tech Support
 
 Facebook group：https://www.facebook.com/groups/197476557529090/
 
