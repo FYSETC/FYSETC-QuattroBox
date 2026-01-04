@@ -21,9 +21,8 @@
 2. Q：Does the installation require additional printed fixtures?  A：Not needed
 
 5. Shop
-
--  [Aliexpress]().
--  [Amazon]().
+   -  [Aliexpress]().
+   -  [Amazon]().
 
 6. Tech Support
 
