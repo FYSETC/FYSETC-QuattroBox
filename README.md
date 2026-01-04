@@ -5,7 +5,7 @@ FYSETC-QuattroBox
    
    Github：https://github.com/Batalhoti/QuattroBox/tree/main
 
-   https://github.com/FYSETC/FYSETC-QuattroBox/blob/main/images/FYSETC_QuattroBox_3.jpg
+   ![FYSETC_QuattroBox_3.jpg](images/FYSETC_QuattroBox_3.jpg)
 
 3. We make some small changes base on the QuattroBox official material. Like change：
    ① X5 motherboard+X5；
