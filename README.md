@@ -17,14 +17,14 @@
    We have updated the installation guide on WIKI,； link:([https://wiki.fysetc.com/](https://wiki.fysetc.com/docs/FYSETCQuattroBox))
 
 4. FAQ
-1. Q: How to install to my 3D printer? A: You can watch  [the assembly manual](https://github.com/FYSETC/FYSETC-QuattroBox/tree/main/Documentation).
-2. Q：Does the installation require additional printed fixtures?  A：Not needed
+   Q: How to install to my 3D printer? A: You can watch  [the assembly manual](https://github.com/FYSETC/FYSETC-QuattroBox/tree/main/Documentation).
+   Q：Does the installation require additional printed fixtures?  A：Not needed
 
-5. Shop
+6. Shop
    -  [Aliexpress]().
    -  [Amazon]().
 
-6. Tech Support
+7. Tech Support
 
 Facebook group：https://www.facebook.com/groups/197476557529090/
 
