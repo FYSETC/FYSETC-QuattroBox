@@ -8,7 +8,7 @@
    ![FYSETC_QuattroBox_3.jpg](images/FYSETC_QuattroBox_3.jpg)
 
 2. We make some small changes base on the QuattroBox official material. Like change：
-   - X5 motherboard+X5 adapter board（Motherboard information：https://wiki.fysetc.com/docs/CHAMELEON-X5）；
+   - X5 motherboard+X5 adapter board（Motherboard information：https://wiki.fysetc.com/docs/CHAMELEON-X5)
    - Equipped with Binky encoder, it can achieve precise filament positioning；
    - Mechanical limit switch, safe and reliable；
    - NEMA 17 stepper motor；
